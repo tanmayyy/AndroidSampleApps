@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">CopyListenerApp</string>
+    <string name="app_name">CopyListenerDemo</string>
     <string name="copy_noti_title">Did you successfully post?</string>
     <string name="copy_noti_text">Copy the share URL</string>
     <string name="copy_help_display_text">Done. Now copy some text to clipboard from any other app.</string>
